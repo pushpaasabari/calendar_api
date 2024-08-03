@@ -17,9 +17,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{url('list')}}">Holiday list</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="{{url('list_holiday')}}">Holiday</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="{{url('calendar')}}">Calendar</a>
                     </li>
